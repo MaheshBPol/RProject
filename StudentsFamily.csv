@@ -1,0 +1,17 @@
+Admission No.,FamilyIncome,CreditRating,CriminalBackground,ParentsEducation,ParentsMaritalStatus,UndergraduateGPA
+68102,65000,700,yes,School,Divorced,3
+68103,45000,400,no,School,Married,3.5
+68104,80000,700,yes,MS,Divorced,2
+68105,40000,300,yes,School,Married,4
+68106,109000,150,no,MS,Divorced,4
+68107,60000,500,no,MS,Married,3
+67998,30000,300,yes,School,Divorced,3.5
+67999,150000,700,yes,MS,Married,3
+68000,40000,400,no,MS,Divorced,3.8
+68001,90000,650,yes,PHD,Divorced,3.5
+68002,40000,500,no,MS,Married,3.3
+67893,80000,600,no,PHD,Married,2
+67894,35000,650,yes,School,Divorced,4
+67895,88000,200,no,MS,Married,2
+67896,65000,700,no,School,Divorced,2
+67897,90000,500,no,MS,Divorced,3.9
